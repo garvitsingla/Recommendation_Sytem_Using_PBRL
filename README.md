@@ -1,2 +1,3 @@
-install dependencies in requirements.txt
-run evaluation.ipynb file
+Install dependencies via requirements.txt
+
+Run evaluation.ipynb file
